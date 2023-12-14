@@ -1,0 +1,16 @@
+:root {
+--background-color: #2F303A;
+--button-color: #2196F3;
+--footer: #757575;
+--color-blue: #0000FF;
+--color-gray:#757575;
+}
+.color_lightgray {
+    color:var(--footer)
+}
+.color_gray {
+    color:var(--color-gray)
+}
+section.big {
+    padding: 100px 50px 100px 50px;
+}
